@@ -11,6 +11,8 @@ A USA Company to begin remote work for them
 - 📫 How to reach me ...
 aguevara@studioa.com.mx
 
+Aqui esta el que cambie desde Visual Code
+
 <!---
 uuuuffff/uuuuffff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
